@@ -1,0 +1,17 @@
+available: false
+callbacks: ''
+cargoAcceptance: []
+cargoProduction:
+- HEMP
+colour: 1
+fundCostMultiplier: 100
+id: 0
+layout:
+- - - -1
+name: Hemp Farm
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 75
+tiles: []
+type: primary
