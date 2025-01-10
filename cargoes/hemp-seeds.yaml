@@ -1,17 +1,17 @@
-abbreviation: NE
+abbreviation: HS
 available: false
 classes: 32
-colour: 1
+colour: 110
 id: 1
-label: NEWC
-longName: 'new cargo #1'
-name: 'New Cargo #1'
+label: HMPS
+longName: hemp seeds
+name: Hemp Seeds
 penaltyLength: 255
 penaltyLowerBound: 0
 price: 4112
 sprite:
-  filename: cargoes/new-cargo-1.png
+  filename: cargoes/hemp-seeds.png
   left: 0
   top: 0
-unitName: Items
+unitName: Bags
 weight: 16
