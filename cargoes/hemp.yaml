@@ -1,0 +1,17 @@
+abbreviation: HM
+available: false
+classes: 32
+colour: 87
+id: 0
+label: HEMP
+longName: hemp
+name: Hemp
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 25700
+sprite:
+  filename: cargoes/hemp.png
+  left: 0
+  top: 0
+unitName: Bags
+weight: 1
